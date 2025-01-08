@@ -103,6 +103,17 @@
       text-decoration: none;
     }
 
+    /* TL;DR section text size matches main content */
+    .tldr {
+      font-size: 1.25rem;
+    }
+
+    @media (min-width: 768px) {
+      .tldr {
+        font-size: 1.4rem;
+      }
+    }
+
 
     /* The canvas sits behind everything */
     #automatonCanvas {
@@ -119,6 +130,7 @@
   <div class="content">
 
 <p>TL;DR:</p>
+<div class="tldr">
 <a href="#generality">General intelligence ≈ universal
 computation.</a>
 <a href="https://arxiv.org/abs/2412.17794">Universality only
