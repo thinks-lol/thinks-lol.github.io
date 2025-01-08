@@ -1,10 +1,10 @@
 # What CRISPR, o3, and the Memphis Plume Show Us About Intelligence
 
-TL;DR: universal intelligence, or the ability to solve any problem, depends on the ability to remember what you've thought, and nothing more.
+TL;DR: universal intelligence depends on the ability to be true to yourself and remember what you've thought
 
-- [The Memphis Plume](#the-memphis-plume) - The Race for AGI Made Visible
-- [Universal Computation](#universal-computation) - Human + Pen + Paper + Sandwiches = Universal Computer
-- [Memory Makes Computation Universal](#memory-requirement) - Two Rules for General Intelligence
+- [The Memphis Plume](#the-memphis-plume) - the race for artificial general intelligence (AGI) made visible
+- [Universal Computation](#universal-computation) - human + pen + paper + sandwiches = universal computer
+- [Memory Makes Computation Universal](#memory-requirement) - two rules for general intelligence
 - [The Attention Tax](#attention-tax) - Why Thinking Longer Will Hit a Wall
 - [Nature's Solution](#natures-solution) - Learning from Biological Memory
 - [Beyond Brute Force](#beyond-brute-force) - What O3 Reveals
