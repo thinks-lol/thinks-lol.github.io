@@ -1,6 +1,6 @@
-# What CRISPR, O3 and the Memphis Plume Show Us About Intelligence
+# What CRISPR, o3, and the Memphis Plume Show Us About Intelligence
 
-TL;DR:
+TL;DR: universal intelligence, or the ability to solve any problem, depends on the ability to remember what you've thought, and nothing more.
 
 - [The Memphis Plume](#the-memphis-plume) - The Race for AGI Made Visible
 - [Universal Computation](#universal-computation) - Human + Pen + Paper + Sandwiches = Universal Computer
