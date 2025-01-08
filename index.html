@@ -87,14 +87,20 @@
       opacity: 0.9;
     }
 
-    /* Style links to match text color */
-    a {
+    /* Style only hyperlinks (with href), not named anchors */
+    a[href] {
       color: #fff;
       text-decoration: underline;
     }
 
-    a:visited {
+    a[href]:visited {
       color: #cccccc;
+    }
+
+    /* Named anchors should be invisible */
+    a:not([href]) {
+      color: inherit;
+      text-decoration: none;
     }
 
     /* Right-aligned TL;DR section */
