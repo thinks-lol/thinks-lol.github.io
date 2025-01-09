@@ -51,11 +51,25 @@
       line-height: 1.2;
     }
 
-    p, ul {
+    p {
       /* Tighter line spacing */
       font-size: 1.25rem;
       line-height: 1.5;
       margin-bottom: 1rem;
+    }
+
+    ul {
+      font-size: 1.25rem;
+      line-height: 1.5;
+      margin-bottom: 1rem;
+      padding-left: 2rem;  /* Indent bullets */
+    }
+
+    /* Heading styles */
+    h2 {
+      font-size: 2rem;
+      margin: 2rem 0 1rem;
+      line-height: 1.3;
     }
 
     @media (min-width: 768px) {
@@ -64,6 +78,9 @@
       }
       p, ul {
         font-size: 1.4rem;
+      }
+      h2 {
+        font-size: 2.4rem;
       }
     }
 
@@ -103,16 +120,22 @@
       text-decoration: none;
     }
 
-    /* Style the TL;DR section to match main text */
+    /* Remove underline on h2 links */
+    h2 > a {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    /* Enhanced TL;DR styling */
     .tldr {
-      font-size: 1.25rem;
-      line-height: 1.5;
-      margin-bottom: 1rem;
+      font-size: 1.5rem;
+      line-height: 1.6;
+      margin-bottom: 2rem;
     }
 
     @media (min-width: 768px) {
       .tldr {
-        font-size: 1.4rem;
+        font-size: 1.6rem;
       }
     }
 
