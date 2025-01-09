@@ -183,9 +183,9 @@ let cols, rows;
 let grid = [];
 
 // Update speeds
-let frameRateVal    = 10;
-let updatesPerFrame = 20;
-let patchSize       = 3;
+let frameRateVal    = 5;
+let updatesPerFrame = 5;
+let patchSize       = 2;
 
 // We define a subdued rainbow palette for aliveCount=0..9
 const rainbowPalette = [
@@ -222,7 +222,7 @@ function setup() {
   for (let r = 0; r < rows; r++) {
     grid[r] = [];
     for (let c = 0; c < cols; c++) {
-      let isAlive = random() < 0.15 ? 1 : 0;
+      let isAlive = random() < 0.05 ? 1 : 0;
       // Start color: either rainbowPalette[0] or black
       let colorStart = isAlive ? rainbowPalette[0] : blackColor;
       grid[r][c] = {
@@ -360,7 +360,7 @@ function windowResized() {
         };
       } else {
         // If newly created cell is outside old range
-        let isAlive = random() < 0.15 ? 1 : 0;
+        let isAlive = random() < 0.05 ? 1 : 0;
         let colorStart = isAlive ? rainbowPalette[0] : blackColor;
         newGrid[r][c] = {
           state:      isAlive,
