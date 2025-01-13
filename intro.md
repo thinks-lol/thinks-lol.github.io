@@ -52,8 +52,8 @@ The model’s expressivity, harnessed across multiple steps, blossoms into gener
 
 ## <a name="memory-requirement" href="#memory-requirement">Memory Makes Computation Universal</a>
 
-Out of deep love for this line of research, I spent much of December in a meditation on the link between memory and computation.
-In this post, I provide the simplest and most intuitive explanation of universality (a.k.a. general intelligence) that I could synthesize:
+Out of deep love for this line of research, I spent much of December in [a meditation on the link between memory and computation](https://arxiv.org/abs/2412.17794).
+There and in this post, I provide the simplest and most intuitive explanation of universality (a.k.a. general intelligence) that I could synthesize:
 
 *Universality requires only (1) stable evolution of thought (no hallucinations), and (2) reliable access to the history of thought.*
 
@@ -94,7 +94,9 @@ It has gigabases of DNA and a swarm of biomolecules, operating in a parallel sou
 By some definitions, each cell’s molecular interactions also fall in that threshold-circuit-like class: essentially parallel transformations, no large sequential pipeline.
 But cells offset this limitation with state—encoded in their components and their DNA, which holds a record of life’s entire lineage.
 When cells need to store or recall specific bits of information, they literally write it into the genome.
-The canonical example is CRISPR. At its core, CRISPR functions as a chronological log of viral fragments—essentially addresses in DNA space. These fragments represent viral infections that both the individual cell and its ancestral lineage have survived. 
+The canonical example is [CRISPR](https://en.wikipedia.org/wiki/CRISPR).
+At its core, CRISPR functions as a chronological log of viral fragments—essentially addresses in DNA space.
+These fragments represent viral infections that both the individual cell and its ancestral lineage have survived.
 The chronology is not just an artifact of the system, but is essential because by remembering which viruses are more recent, the cell can invest more energy in making guided nucleases that target them than ones which occurred long ago.
 
 ![CRISPR, better known for its use as a genome editing tool, is actually a temporal memory system.](crispr-memory.png)
