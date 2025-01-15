@@ -3,7 +3,13 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Memory Automaton: Rainbow AliveCount</title>
+  <title>What CRISPR, o3, and the Memphis Plume Show Us About Intelligence</title>
+  
+  <!-- Open Graph / Social Media Meta Tags -->
+  <meta property="og:title" content="What CRISPR, o3, and the Memphis Plume Show Us About Intelligence" />
+  <meta property="og:description" content="Exploring how simple rules can create complex behaviors in biological, computational, and physical systems." />
+  <meta property="og:image" content="https://lets-remember.github.io/memphis-plume.jpg" />
+  <meta property="og:type" content="article" />
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <style>
     /* Basic reset and styling */
@@ -24,10 +30,12 @@
       position: relative;
       z-index: 1;
 
-      /* 40% wider for better readability */
+      /* Control width with min/max constraints */
+      width: 90%;
       max-width: 980px;
+      min-width: 320px;
 
-      /* 25% bigger margins & padding than before */
+      /* Ensure minimum margins on sides */
       margin: 2.5rem auto;
       padding: 2.5rem 1.5rem 4rem;
 
@@ -36,10 +44,12 @@
       border-radius: 8px;
     }
 
-    /* For smaller screens, preserve 5% margins on each side */
-    @media (max-width: 768px) {
+    /* Adjust margins for very narrow screens */
+    @media (max-width: 480px) {
       .content {
-        margin: 2.5rem 5%;
+        width: 95%;
+        margin: 1.5rem auto;
+        padding: 1.5rem 1rem 3rem;
       }
     }
 
@@ -84,9 +94,9 @@
       }
     }
 
-    /* Make images fill 75% of their container width and center them */
+    /* Make images fill 100% of their container width and center them */
     img {
-      width: 75%;
+      width: 100%;
       height: auto;
       margin: 1.5rem auto 0.75rem;
       display: block;
