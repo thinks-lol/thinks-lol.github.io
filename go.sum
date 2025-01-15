@@ -1,12 +1,6 @@
 github.com/athul/archie v0.0.0-20250107191948-0de4e95a8745 h1:gOZIvbkuXFoRGlfQ/qHPm3qCE3Nt3TyKLlW9v398Qag=
 github.com/athul/archie v0.0.0-20250107191948-0de4e95a8745/go.mod h1:toV1NH0HG3QeUEXX3aXgyCLuSh9JjAdCSge+cKN7LFs=
-github.com/clente/hugo-bearcub v0.0.0-20241217173151-aa6a8b4f90c1 h1:9cXjMduL+qzZRlHFLZViVbjMpObkaOMiG0SxwC6enNI=
-github.com/clente/hugo-bearcub v0.0.0-20241217173151-aa6a8b4f90c1/go.mod h1:apcY0kKQY+CnkwsWuHiEfSrBusQgEsfAp9g065sNLFg=
-github.com/hanwenguo/hugo-theme-nostyleplease v0.0.0-20250112062227-1bf2f17c5788 h1:PGj011nMESvgdjsGxHk2irzXaOcBWQGZpDoHgPIbMYE=
-github.com/hanwenguo/hugo-theme-nostyleplease v0.0.0-20250112062227-1bf2f17c5788/go.mod h1:7MmCdJmDLYnE8hMLIX2lUpRayUHR/U81+HS1l0Q3TnU=
-github.com/spf13/hyde v1.3.0 h1:7zf9f7xxMfD5KwdrJU+V2w7yi1W8dKKyzvNtQkuh0sE=
-github.com/spf13/hyde v1.3.0/go.mod h1:CSmLWCbXXInaA5zAkwAQ0EbwpR7Pe74eSmDxdGspoCY=
-github.com/tomfran/typo v1.15.0 h1:lXTTzIRQDAlPLJarwrtJffXj1FRFP2IC93CTkqE65/g=
-github.com/tomfran/typo v1.15.0/go.mod h1:8xNarVYpf1wXyorV/5F4NnTzJXGi8tTtJxourpJv4MA=
-github.com/yihui/hugo-xmin v0.0.0-20250113152526-91da42b32e21 h1:JgUrZurlVemJxiBQPSZ2bydaieD4lLG4KDhDsPdMZPM=
-github.com/yihui/hugo-xmin v0.0.0-20250113152526-91da42b32e21/go.mod h1:RiCR4psTF4iydlh4bR9BijKIHmivp7IeBaokx0CvzRA=
+github.com/colorchestra/smol v0.0.0-20231124233107-9c5b894c0950 h1:wb56kBIS3OPYZLSENP98UZyx2kLly0EsAFqil94nQ1A=
+github.com/colorchestra/smol v0.0.0-20231124233107-9c5b894c0950/go.mod h1:zCNGH1Qu+A99iK4ZWFGilgcr9e1HVs/j25UmmH+EOv8=
+github.com/monkeyWzr/hugo-theme-cactus v0.0.0-20240312084910-a5df1d6bed25 h1:wAV8qlIZA6AA+Nq6WHk2+pJgDTE37EUUKq73E1TwOy4=
+github.com/monkeyWzr/hugo-theme-cactus v0.0.0-20240312084910-a5df1d6bed25/go.mod h1:pelyER/z3wJ0lzJtj5JVIlUfnKJJ/sfe4RYyfQG0E/4=
