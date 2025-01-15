@@ -1,0 +1,6 @@
+github.com/athul/archie v0.0.0-20250107191948-0de4e95a8745 h1:gOZIvbkuXFoRGlfQ/qHPm3qCE3Nt3TyKLlW9v398Qag=
+github.com/athul/archie v0.0.0-20250107191948-0de4e95a8745/go.mod h1:toV1NH0HG3QeUEXX3aXgyCLuSh9JjAdCSge+cKN7LFs=
+github.com/spf13/hyde v1.3.0 h1:7zf9f7xxMfD5KwdrJU+V2w7yi1W8dKKyzvNtQkuh0sE=
+github.com/spf13/hyde v1.3.0/go.mod h1:CSmLWCbXXInaA5zAkwAQ0EbwpR7Pe74eSmDxdGspoCY=
+github.com/yihui/hugo-xmin v0.0.0-20250113152526-91da42b32e21 h1:JgUrZurlVemJxiBQPSZ2bydaieD4lLG4KDhDsPdMZPM=
+github.com/yihui/hugo-xmin v0.0.0-20250113152526-91da42b32e21/go.mod h1:RiCR4psTF4iydlh4bR9BijKIHmivp7IeBaokx0CvzRA=

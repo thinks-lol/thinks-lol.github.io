@@ -1,8 +1,12 @@
 baseURL = "https://lets-remember.github.io/"
 languageCode = "en-us"
 title = "Let's Remember"
-theme = "lets-remember"
+theme = 'github.com/yihui/hugo-xmin'
 defaultContentLanguage = "en"
 
+[module]
+[[module.imports]]
+path = "github.com/yihui/hugo-xmin"
+
 [permalinks]
-  posts = "/:year/:month/:title/"
+posts = "/:year/:month/:title/"
