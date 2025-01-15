@@ -27,8 +27,3 @@ prod_build_verbose: getmodules
 # Build the site with production settings and optimizations
 prod_build: getmodules
 	hugo --cleanDestinationDir --minify --forceSyncStatic --gc --logLevel info
-
-gitlog:
-	git log --pretty=format:'- **%ad**: %s' --date=short >gitlog.md
-	sed -i '' '/Updated gitlog/d' "gitlog.md"
-	git commit -m "Updated gitlog" gitlog.md
