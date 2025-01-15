@@ -1,3 +1,9 @@
+---
+title: "What CRISPR, o3, and the Memphis Plume Show Us About Intelligence"
+date: 2025-01-15
+description: "Universal intelligence—the ability to solve any problem—depends on the ability to be true to yourself while remembering what you've thought, and nothing else."
+---
+
 # What CRISPR, o3, and the Memphis Plume Show Us About Intelligence
 
 **TL;DR: universal intelligence—the ability to solve any problem—depends on the ability to be true to yourself while remembering what you've thought, and nothing else.**
