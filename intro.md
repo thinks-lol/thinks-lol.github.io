@@ -28,7 +28,7 @@ With 100,000 Nvidia H100 GPUs, xAI is believed to be the world's largest AI supe
 It's already drawing around 150 MW and substantial cooling water.
 For now, that's only a fraction of Allen's power footprint, but [xAI's plans call for scaling to a gigawatt in the coming year](https://www.cleanenergy.org/blog/will-memphis-pay-a-price-for-elon-musks-xai-colossus-bait-switch/)—potentially creating its own towering plume of the same scale in the race toward artificial general intelligence.
 
-This growing industrial footprint, now dominating Memphis's skyline, foreshadows compute's heat waste made visible in our rush to train an artificial general intelligence (AGI).
+When that scale-up is complete, the Memphis skyline will feature a massive plume representing our rush to train an artificial general intelligence (AGI).
 [xAI's stated goal is a "1% shot at a Kardashev type 1 civilization"](https://www.capacitymedia.com/article/musks-xais-colossus-cluster-set-for-one-million-gpu-supercomputer-expansion)—a [society capable of harnessing all its planet's energy](https://en.wikipedia.org/wiki/Planetary_civilization), presumably enabled by the AGI they aim to bring into the world.
 And they're just getting started, with a tenfold [expansion of Colossus to 1M GPUs](https://www.ft.com/content/9c0516cf-dd12-4665-aa22-712de854fe2f) already planned.
 
