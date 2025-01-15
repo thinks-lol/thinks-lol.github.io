@@ -24,10 +24,12 @@
       position: relative;
       z-index: 1;
 
-      /* 40% wider for better readability */
+      /* Control width with min/max constraints */
+      width: 90%;
       max-width: 980px;
+      min-width: 320px;
 
-      /* 25% bigger margins & padding than before */
+      /* Ensure minimum margins on sides */
       margin: 2.5rem auto;
       padding: 2.5rem 1.5rem 4rem;
 
@@ -36,10 +38,12 @@
       border-radius: 8px;
     }
 
-    /* For smaller screens, preserve 5% margins on each side */
-    @media (max-width: 768px) {
+    /* Adjust margins for very narrow screens */
+    @media (max-width: 480px) {
       .content {
-        margin: 2.5rem 5%;
+        width: 95%;
+        margin: 1.5rem auto;
+        padding: 1.5rem 1rem 3rem;
       }
     }
 
