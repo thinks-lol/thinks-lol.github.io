@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>O3 on Let's Remember</title><link>/tags/o3/</link><description>Recent content in O3 on Let's Remember</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/o3/index.xml" rel="self" type="application/rss+xml"/><item><title>What CRISPR, o3, and the Memphis Plume Show Us About Intelligence</title><link>/2025/01/what-crispr-o3-and-the-memphis-plume-show-us-about-intelligence/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>/2025/01/what-crispr-o3-and-the-memphis-plume-show-us-about-intelligence/</guid><description>&lt;p>&lt;strong>TL;DR: universal intelligence—the ability to solve any problem—depends on the ability to be true to yourself while remembering what you&amp;rsquo;ve thought, and nothing else.&lt;/strong>&lt;/p>
+&lt;p>&lt;em>This post provides an accessible introduction to our recent paper &lt;a href="https://arxiv.org/abs/2412.17794">Memory makes computation universal, remember? (arXiv:2412.17794)&lt;/a>, which formally proves the TL;DR.&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="#the-memphis-plume">The Memphis Plume&lt;/a> - the race for artificial general intelligence made visible&lt;/li>
+&lt;li>&lt;a href="#universal-computation">Universal Computation&lt;/a> - human + pen + paper + sandwiches = universal computer&lt;/li>
+&lt;li>&lt;a href="#memory-makes-computation-universal">Memory Makes Computation Universal&lt;/a> - two rules for general intelligence&lt;/li>
+&lt;li>&lt;a href="#the-bitter-pill">The Bitter Pill&lt;/a> - why making transformers think longer will hit a wall&lt;/li>
+&lt;li>&lt;a href="#natures-solution">Nature&amp;rsquo;s Solution&lt;/a> - learning from biological memory&lt;/li>
+&lt;li>&lt;a href="#beyond-brute-force">Beyond Brute Force&lt;/a> - what o3 reveals&lt;/li>
+&lt;li>&lt;a href="#a-path-forward">A Path Forward&lt;/a> - remembering efficiently&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="the-memphis-plume">The Memphis Plume&lt;/h2>
+&lt;p>On a crisp morning in early December 2024, I was running by the Mississippi when I noticed a plume on the horizon:&lt;/p></description></item></channel></rss>
