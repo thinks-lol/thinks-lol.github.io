@@ -11,11 +11,11 @@ _This post provides an accessible introduction to our recent paper [Memory makes
 
 - [The Memphis Plume](#the-memphis-plume) - the race for artificial general intelligence made visible
 - [Universal Computation](#universal-computation) - human + pen + paper + sandwiches = universal computer
-- [Memory Makes Computation Universal](#memory-requirement) - two rules for general intelligence
-- [The Bitter Pill](#bitter-pill) - why making transformers think longer will hit a wall
+- [Memory Makes Computation Universal](#memory-makes-computation-universal) - two rules for general intelligence
+- [The Bitter Pill](#the-bitter-pill) - why making transformers think longer will hit a wall
 - [Nature's Solution](#natures-solution) - learning from biological memory
 - [Beyond Brute Force](#beyond-brute-force) - what o3 reveals
-- [A Path Forward](#path-forward) - remembering efficiently
+- [A Path Forward](#a-path-forward) - remembering efficiently
 
 ---
 
