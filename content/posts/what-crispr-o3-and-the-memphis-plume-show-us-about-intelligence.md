@@ -108,7 +108,7 @@ The chronology is not just an artifact of the system, but is essential because b
 
 The ARC AGI Prize nicely illustrates where today’s models stand.
 A single forward-pass language model—like GPT-4—gets about 0–5% accuracy on ARC tasks.
-Cheaper chain-of-thought–based systems that do a bit of [test-time training](https://arxiv.org/abs/2411.07279) [get close to 50%](https://arxiv.org/abs/2412.04604).
+Chain-of-thought–based systems that do a bit of [test-time training](https://arxiv.org/abs/2411.07279) [get close to 50%](https://arxiv.org/abs/2412.04604).
 Meanwhile, a careful human solver will approach 100% if you just give them enough time to think.
 
 ## Beyond Brute Force
