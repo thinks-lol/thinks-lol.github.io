@@ -2,6 +2,7 @@ description = "a blog about ideas"
 #footer = "Markdown Footer. Edit this and it is markdown. in the config.toml"
 subtitle = "thoughts, laughing"
 dateFmt = "02.01.2006 15:04"
+twitter = "@erikgarrison"
 
 # Social icons
 [[social]]
