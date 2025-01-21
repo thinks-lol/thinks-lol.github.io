@@ -3,7 +3,11 @@ languageCode = "en-us"
 title = "thinks.lol"
 defaultContentLanguage = "en"
 # todo: multiple languages possible
+enableRobotsTXT = true
+rssLimit = 1000
 
+[params]
+customCSS = ["css/custom.css"]
 
 [permalinks]
 posts = "/:year/:month/:title/"
