@@ -163,7 +163,7 @@ We've been doing it for a while:
 ![](/images/youssef_text_wbb.small.jpg)
 <small>
 *Written memory persists: A papyrus from Herculaneum, 2000 years old, decoded by [a space-time transformer model](https://arxiv.org/abs/2102.05095) for the [Vesivius Challenge](https://scrollprize.org/grandprize).*
-*As a child of Kentucky (where the project is organized), and a long time resident of Napoli, I deeply ❤️ this.*
+*As a child of Kentucky (where the project is organized), and a long time resident of Napoli (right around the bay from [Ercolano scavi](https://en.wikipedia.org/wiki/Herculaneum), I deeply ❤️ this.*
 </small>
 
 What's next?
