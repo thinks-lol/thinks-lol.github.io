@@ -24,7 +24,7 @@ _proof: [Memory makes computation universal, remember? (arXiv:2412.17794)](https
 
 On a crisp morning in early December 2024, I was running by the Mississippi when I noticed a plume on the horizon:
 
-![A large industral plume over south Memphis.](/images/memphis-plume.jpg)
+![A large industral plume over south Memphis.](/images/memphis-tva-xai-plume.jpg)
 
 At first, I thought it was [xAI's "Colossus" supercomputer](<https://en.wikipedia.org/wiki/Colossus_(supercomputer)>).
 However, the plume is mostly from the Tennessee Valley Authority's Allen Combined Cycle Plant—a [1.1-gigawatt natural gas power plant powering Memphis](https://en.wikipedia.org/wiki/Allen_Combined_Cycle_Plant), which sits on the same site.
