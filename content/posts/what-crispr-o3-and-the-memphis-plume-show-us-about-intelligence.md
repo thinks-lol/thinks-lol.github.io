@@ -1,13 +1,13 @@
 ---
 title: "What CRISPR, o3, and the Memphis Plume Show Us About Intelligence"
-date: 2025-01-21 09:00:00
+date: 2025-01-21 12:00:00
 description: "Universal intelligence—the ability to solve any problem—depends on the ability to be true to yourself while remembering what you've thought, and nothing else."
 tags: ["AI", "memory", "transformers", "CRISPR", "o3", "AGI"]
 ---
 
-**TL;DR: universal intelligence—the ability to solve any problem—depends on the ability to be true to yourself while remembering what you've thought, and nothing else.**
+**TL;DR: Universal intelligence—the ability to solve any problem—depends on the ability to be true to yourself while remembering what you've thought, and nothing else.**
 
-_This post provides an accessible introduction to our recent paper [Memory makes computation universal, remember? (arXiv:2412.17794)](https://arxiv.org/abs/2412.17794), which formally proves the TL;DR._
+_proof: [Memory makes computation universal, remember? (arXiv:2412.17794)](https://arxiv.org/abs/2412.17794)_
 
 - [The Memphis Plume](#the-memphis-plume) - the race for artificial general intelligence made visible
 - [Universal Computation](#universal-computation) - human + pen + paper + sandwiches = universal computer
@@ -15,6 +15,7 @@ _This post provides an accessible introduction to our recent paper [Memory makes
 - [The Bitter Pill](#the-bitter-pill) - why making transformers think longer will hit a wall
 - [Nature's Solution](#natures-solution) - learning from biological memory
 - [Beyond Brute Force](#beyond-brute-force) - what o3 reveals
+- [o1 Forgets](#o1-forgets) - why you can't hack memory
 - [A Path Forward](#a-path-forward) - remembering efficiently
 
 ---

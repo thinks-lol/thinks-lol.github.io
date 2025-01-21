@@ -1,17 +1,13 @@
-description = "A blog built through Hugo and blogdown."
-footer = "Markdown Footer. Edit this and it is markdown. in the config.toml"
+description = "a blog about ideas"
+#footer = "Markdown Footer. Edit this and it is markdown. in the config.toml"
 subtitle = "thoughts, laughing"
 dateFmt = "02.01.2006 15:04"
 
 # Social icons
 [[social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
-
-[[social]]
-name = "medium"
-url = "https://medium.com/@user"
+url = "https://www.linkedin.com/in/erik-garrison-96494710/"
 
 [[social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/ekg"

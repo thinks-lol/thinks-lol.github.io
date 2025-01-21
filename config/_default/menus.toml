@@ -1,10 +1,5 @@
 
 [[main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[main]]
 name = "About"
 url = "/about/"
 weight = 2
@@ -20,15 +15,20 @@ url = "/index.xml"
 
 [[footer]]
 name = "Github"
-url = "https://github.com/example"
+url = "https://github.com/ekg"
 weight = 1
 
 [[footer]]
-name = "Mastodon"
-url = "https://example.com/@user"
+name = "twitter/X"
+url = "https://x.com/erikgarrison"
 weight = 2
 
 [[footer]]
-name = "Imprint"
-url = "/imprint"
+name = "Mastodon"
+url = "https://mastodon.social/@ekg"
 weight = 3
+
+[[footer]]
+name = "BlueSky"
+url = "https://bsky.app/profile/thinks.lol"
+weight = 4
