@@ -1,6 +1,6 @@
 ---
 title: "What CRISPR, o3, and the Memphis Plume Show Us About Intelligence"
-date: 2025-01-15
+date: 2025-01-21 09:00:00
 description: "Universal intelligence—the ability to solve any problem—depends on the ability to be true to yourself while remembering what you've thought, and nothing else."
 tags: ["AI", "memory", "transformers", "CRISPR", "o3", "AGI"]
 ---
@@ -136,8 +136,27 @@ o1/o3's developers advocate [dramatically scaling test-time compute](https://www
 Soon after [o3's release](https://openai.com/index/deliberative-alignment/), OpenAI's Board said that to achieve AGI, we'll just need ([as paraphrased](https://daringfireball.net/2024/12/openai_unimaginable)) "unimaginable sums of money", [proposing to restructure as a public benefit corporation to attract fresh capital](https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission/).
 They plan to scale up, spin more GPUs, and chase universal intelligence through raw power.
 
+## o1 Forgets
+
+If you've been playing with one of the o1-class models, you may have noticed a difficult pattern.
+While in a single response, they can produce entire, bug-free code with complex algorithms, when interacted with over a series of messages, they don't behave like regular LLMs.
+They seem to forget past parts of the conversation, losing key nuance.
+
+Some claim this is simply a feature—that [you're "using it wrong" if you try to chat with it, that you need to frontload all context into a single prompt](https://www.latent.space/p/o1-skill-issue).
+But this misses a fundamental point: [OpenAI's documentation explicitly states that o1 "discards reasoning tokens from its context" after each response](https://platform.openai.com/docs/guides/reasoning/advice-on-prompting).
+This isn't a feature to adapt to—it's an architectural flaw that violates a core requirement for universal computation: reliable access to the history of thought.
+
+[![OpenAI's visual explanation of how o1 manages its context.](/images/oai-o1-context-window.png)](https://platform.openai.com/docs/guides/reasoning/advice-on-prompting)
+
+While o1 can execute impressive one-shot computations within a single step, it cannot build reliably on its own reasoning across multiple exchanges.
+Each response starts fresh, without access to the deep cognitive trails that led to previous insights.
+This isn't about prompt engineering or learning the right usage patterns—it's a theoretical barrier to achieving true general intelligence.
+The model may achieve remarkable individual results through massive context windows and parallel search, but without the ability to maintain and build upon its own reasoning state, it remains fundamentally bounded.
+
 ![](/images/youssef_text_wbb.small.jpg)
-Written memory persists: A papyrus from Herculaneum, 2000 years old, decoded by [a space-time transformer model](https://arxiv.org/abs/2102.05095). This work is close to my heart: I'm originally from Kentucky, where the [Vesivius Challenge](https://scrollprize.org/grandprize) that led to this breakthrough is organized. I also spent nearly a decade living in Napoli, and have visited Ercolano scavi (Herculaneum) many times. Copyright Vesuvius Challenge.
+Written memory persists: A papyrus from Herculaneum, 2000 years old, decoded by [a space-time transformer model](https://arxiv.org/abs/2102.05095).
+This work is close to my heart: I'm originally from Kentucky, where the [Vesivius Challenge](https://scrollprize.org/grandprize) that led to this breakthrough is organized.
+I also spent nearly a decade living in Napoli, just around the bay from Ercolano scavi (Herculaneum). Copyright Vesuvius Challenge.
 
 ## A Path Forward
 
