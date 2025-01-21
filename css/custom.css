@@ -1,0 +1,22 @@
+/* Light mode overrides */
+:root {
+  /* Black for unvisited links */
+  --linkcolor: #000; 
+  /* Gray for visited/clicked links */
+  --visitedcolor: #666;
+}
+
+/* Dark mode overrides */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* White for unvisited links */
+    --linkcolor: #fff; 
+    /* Gray for visited/clicked links */
+    --visitedcolor: #bbb;
+  }
+}
+
+/* Force all links to be underlined */
+a, a:link, a:visited, a:hover, a:active {
+  text-decoration: underline;
+}
