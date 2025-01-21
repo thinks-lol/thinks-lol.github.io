@@ -154,15 +154,20 @@ Each response starts fresh, without access to the deep cognitive trails that led
 This isn't about prompt engineering or learning the right usage patterns—it's a theoretical barrier to achieving true general intelligence.
 The model may achieve remarkable individual results through massive context windows and parallel search, but without the ability to maintain and build upon its own reasoning state, it remains fundamentally bounded.
 
-![](/images/youssef_text_wbb.small.jpg)
-Written memory persists: A papyrus from Herculaneum, 2000 years old, decoded by [a space-time transformer model](https://arxiv.org/abs/2102.05095).
-This work is close to my heart: I'm originally from Kentucky, where the [Vesivius Challenge](https://scrollprize.org/grandprize) that led to this breakthrough is organized.
-I also spent nearly a decade living in Napoli, just around the bay from Ercolano scavi (Herculaneum). Copyright Vesuvius Challenge.
-
 ## A Path Forward
 
 As a sandwich-eating universal intelligence, I'm not convinced.
 Humans got smarter not by growing our brains, but by distributing memory across society—spoken word, libraries, the internet—finding ways to preserve and share knowledge without a ruinous overhead.
+We've been doing it for a while:
+
+![](/images/youssef_text_wbb.small.jpg)
+<small>
+*Written memory persists: A papyrus from Herculaneum, 2000 years old, decoded by [a space-time transformer model](https://arxiv.org/abs/2102.05095) for the [Vesivius Challenge](https://scrollprize.org/grandprize).*
+*As a child of Kentucky (where the project is organized), and a long time resident of Napoli, I deeply ❤️ this.*
+</small>
+
+What's next?
+How do we pass on the bitter pill and break through the scaling limits posed by transformers?
 I'll bet on a resurgence of [recurrent approaches](https://arxiv.org/abs/2410.01201) that drastically reduce inference costs by maintaining a [rolling hidden state, incrementally processing new information, thinking slowly and deeply when we need them to](https://arxiv.org/abs/2412.06769).
 Yes, we might need specialized modules for robust memory access—but if biology, evolution, and a good pen-and-paper can do it, so can we.
 Generality doesn't require industrial-scale cooling towers and power plants.
