@@ -136,7 +136,7 @@ The field has [embraced psychological concepts like Daniel Kahneman "System 1" (
 o1/o3's developers advocate [dramatically scaling test-time compute](https://www.youtube.com/watch?v=eaAonE58sLU) to "hours, days, even weeks", but I truly wonder how quadratic-memory transformer-based architectures will allow this to happen.
 
 Soon after [o3's release](https://openai.com/index/deliberative-alignment/), OpenAI's Board said that to achieve AGI, we'll just need ([as paraphrased](https://daringfireball.net/2024/12/openai_unimaginable)) "unimaginable sums of money", [proposing to restructure as a public benefit corporation to attract fresh capital](https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission/).
-It turns out, they were talking about sums like the [$500 billion dollars which will be invested over the coming four years in the AI infrastructure Stargate Project](https://x.com/openai/status/1881830103858172059).
+It turns out, they were talking about sums like the [$500 billion dollars which will be invested over the coming four years in the Stargate AI infrastructure Project](https://x.com/openai/status/1881830103858172059).
 It's time to scale up, spin more GPUs, and chase universal intelligence through raw power.
 
 ## o1 Forgets
