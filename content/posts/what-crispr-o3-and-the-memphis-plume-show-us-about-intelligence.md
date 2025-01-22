@@ -5,7 +5,7 @@ description: "Universal intelligence—the ability to solve any problem—depend
 tags: ["AI", "memory", "transformers", "CRISPR", "o3", "AGI"]
 ---
 
-**TL;DR: Universal intelligence—the ability to solve any problem—depends on the ability to be true to yourself while remembering what you've thought, and nothing else.**
+### TL;DR: Universal intelligence—the ability to solve any problem—depends on the ability to be true to yourself while remembering what you've thought, and nothing else.
 
 _proof: [Memory makes computation universal, remember? (arXiv:2412.17794)](https://arxiv.org/abs/2412.17794)_
 
@@ -137,7 +137,7 @@ o1/o3's developers advocate [dramatically scaling test-time compute](https://www
 
 Soon after [o3's release](https://openai.com/index/deliberative-alignment/), OpenAI's Board said that to achieve AGI, we'll just need ([as paraphrased](https://daringfireball.net/2024/12/openai_unimaginable)) "unimaginable sums of money", [proposing to restructure as a public benefit corporation to attract fresh capital](https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission/).
 It turns out, they were talking about sums like the [$500 billion dollars which will be invested over the coming four years in the AI infrastructure Stargate Project](https://x.com/openai/status/1881830103858172059).
-They plan to scale up, spin more GPUs, and chase universal intelligence through raw power.
+It's time to scale up, spin more GPUs, and chase universal intelligence through raw power.
 
 ## o1 Forgets
 
