@@ -27,7 +27,7 @@ On a crisp morning in early December 2024, I was running by the Mississippi when
 ![A large industrial plume over south Memphis.](/images/memphis-tva-xai-plume.jpg)
 
 At first, I thought it was [xAI's "Colossus" supercomputer](<https://en.wikipedia.org/wiki/Colossus_(supercomputer)>).
-However, the plume is mostly from the Tennessee Valley Authority's Allen Combined Cycle Plant—a [1.1-gigawatt natural gas power plant powering Memphis](https://en.wikipedia.org/wiki/Allen_Combined_Cycle_Plant), which sits on the same site.
+However, the plume is mostly from the Tennessee Valley Authority's Allen Combined Cycle Plant—a [1.1-gigawatt natural gas power plant](https://en.wikipedia.org/wiki/Allen_Combined_Cycle_Plant), which sits on the same site.
 Nevertheless, let's take it as a vision of the future that lies on our current development path.
 
 With 100,000 Nvidia H100 GPUs, xAI is believed to be the world's largest AI supercomputer.
