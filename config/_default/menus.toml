@@ -5,11 +5,6 @@ url = "/about/"
 weight = 2
 
 [[main]]
-name = "Tags"
-url = "/tags/"
-weight = 4
-
-[[main]]
 name = "RSS"
 url = "/index.xml"
 

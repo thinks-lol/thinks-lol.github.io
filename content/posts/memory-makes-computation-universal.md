@@ -1,16 +1,18 @@
 ---
----
-title: "Memory Makes Computation Universal"
-description: "What CRISPR, o3, and the Memphis Plume Show Us About Intelligence. Universal intelligence—the ability to solve any problem—depends on the ability to be true to yourself while remembering what you've thought, and nothing else."
+title: "Memory makes computation universal, remember?"
+description: "What CRISPR, o3, and the Memphis plume show us about intelligence. Universal intelligence—the ability to solve any problem—depends on the ability to be true to yourself while remembering what you've thought, and nothing else."
 date: 2025-01-22 09:00:00
 aliases:
     - /2025/01/what-crispr-o3-and-the-memphis-plume-show-us-about-intelligence/
 url: /2025/01/memory-makes-computation-universal/
+
 ---
+
+#### What CRISPR, o3, and the Memphis Plume Show Us About Intelligence.
 
 ### TL;DR: Universal intelligence—the ability to solve any problem—depends on the ability to be true to yourself while remembering what you've thought, and nothing else.
 
-_proof: [Memory makes computation universal, remember? (arXiv:2412.17794)](https://arxiv.org/abs/2412.17794)_
+_proof: [arXiv:2412.17794](https://arxiv.org/abs/2412.17794)_
 
 - [The Memphis Plume](#the-memphis-plume) - the race for artificial general intelligence made visible
 - [Universal Computation](#universal-computation) - human + pen + paper + sandwiches = universal computer
