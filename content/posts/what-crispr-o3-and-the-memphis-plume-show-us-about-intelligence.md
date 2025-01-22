@@ -170,7 +170,7 @@ We've been doing it for a while:
 </small>
 
 What's next?
-How do we pass on the bitter pill and break through the scaling limits posed by transformers?
+How do we skip the bitter pill and break through the scaling limits posed by transformers?
 I'll bet on a resurgence of [recurrent approaches](https://arxiv.org/abs/2410.01201) that drastically reduce inference costs by maintaining a [rolling hidden state, incrementally processing new information, thinking slowly and deeply when we need them to](https://arxiv.org/abs/2412.06769).
 Yes, we might need specialized modules for robust memory access—but if biology, evolution, and a good pen-and-paper can do it, so can we.
 Generality doesn't require industrial-scale cooling towers and power plants.
