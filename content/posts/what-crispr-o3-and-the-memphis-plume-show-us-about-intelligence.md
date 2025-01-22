@@ -24,7 +24,7 @@ _proof: [Memory makes computation universal, remember? (arXiv:2412.17794)](https
 
 On a crisp morning in early December 2024, I was running by the Mississippi when I noticed a plume on the horizon:
 
-![A large industral plume over south Memphis.](/images/memphis-tva-xai-plume.jpg)
+![A large industrial plume over south Memphis.](/images/memphis-tva-xai-plume.jpg)
 
 At first, I thought it was [xAI's "Colossus" supercomputer](<https://en.wikipedia.org/wiki/Colossus_(supercomputer)>).
 However, the plume is mostly from the Tennessee Valley Authority's Allen Combined Cycle Plant—a [1.1-gigawatt natural gas power plant powering Memphis](https://en.wikipedia.org/wiki/Allen_Combined_Cycle_Plant), which sits on the same site.
@@ -99,9 +99,10 @@ Look at a single cell.
 It has gigabases of DNA and a swarm of biomolecules, operating in a parallel soup with no centralizing control.
 By some definitions, each cell’s molecular interactions also fall in that threshold-circuit-like class: essentially parallel transformations, no large sequential pipeline.
 But cells offset this limitation with state—encoded in their components and their DNA, which holds a record of life’s entire lineage.
+
 When cells need to store or recall specific bits of information, they literally write it into the genome.
 The canonical example is [CRISPR](https://en.wikipedia.org/wiki/CRISPR).
-At its core, CRISPR functions as a chronological log of viral fragments—essentially addresses in DNA space.
+At its core, CRISPR functions as a chronological log of viral fragments—each one a DNA address that will guide CRISPR effectors like [Cas9](https://en.wikipedia.org/wiki/Cas9) or [Cas12](https://en.wikipedia.org/wiki/Cas12a) to destroy an invading genome.
 These fragments represent viral infections that both the individual cell and its ancestral lineage have survived.
 The chronology is not just an artifact of the system, but is essential because by remembering which viruses are more recent, the cell can invest more energy in making guided nucleases that target them than ones which occurred long ago.
 
@@ -135,6 +136,7 @@ The field has [embraced psychological concepts like Daniel Kahneman "System 1" (
 o1/o3's developers advocate [dramatically scaling test-time compute](https://www.youtube.com/watch?v=eaAonE58sLU) to "hours, days, even weeks", but I truly wonder how quadratic-memory transformer-based architectures will allow this to happen.
 
 Soon after [o3's release](https://openai.com/index/deliberative-alignment/), OpenAI's Board said that to achieve AGI, we'll just need ([as paraphrased](https://daringfireball.net/2024/12/openai_unimaginable)) "unimaginable sums of money", [proposing to restructure as a public benefit corporation to attract fresh capital](https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission/).
+It turns out, they were talking about sums like the [$500 billion dollars which will be invested over the coming four years in the AI infrastructure Stargate Project](https://x.com/openai/status/1881830103858172059).
 They plan to scale up, spin more GPUs, and chase universal intelligence through raw power.
 
 ## o1 Forgets
@@ -162,7 +164,7 @@ We've been doing it for a while:
 
 ![](/images/youssef_text_wbb.small.jpg)
 <small>
-*Written memory persists: A papyrus from Herculaneum, 2000 years old, decoded by [a space-time transformer model](https://arxiv.org/abs/2102.05095) for the [Vesivius Challenge](https://scrollprize.org/grandprize).*
+*Written memory persists: A papyrus from Herculaneum, 2000 years old, decoded by [a space-time transformer model](https://arxiv.org/abs/2102.05095) for the [Vesuvius Challenge](https://scrollprize.org/grandprize).*
 *As a child of Kentucky (where the project is organized), and a long time resident of Napoli (right around the bay from [Ercolano scavi](https://en.wikipedia.org/wiki/Herculaneum), I deeply ❤️ this.*
 </small>
 
