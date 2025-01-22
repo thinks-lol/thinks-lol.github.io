@@ -27,7 +27,7 @@ On a crisp morning in early December 2024, I was running by the Mississippi when
 ![A large industrial plume over south Memphis.](/images/memphis-tva-xai-plume.jpg)
 
 At first, I thought it was [xAI's "Colossus" supercomputer](<https://en.wikipedia.org/wiki/Colossus_(supercomputer)>).
-However, the plume is mostly from the Tennessee Valley Authority's Allen Combined Cycle Plant—a [1.1-gigawatt natural gas power plant](https://en.wikipedia.org/wiki/Allen_Combined_Cycle_Plant), which sits on the same site.
+However, the plume is mostly from the Tennessee Valley Authority's Allen Combined Cycle Plant—a [1.1-gigawatt natural gas power plant](https://en.wikipedia.org/wiki/Allen_Combined_Cycle_Plant) which sits on the same site.
 Nevertheless, let's take it as a vision of the future that lies on our current development path.
 
 With 100,000 Nvidia H100 GPUs, xAI is believed to be the world's largest AI supercomputer.
@@ -64,7 +64,7 @@ There and in this post, I provide the simplest and most intuitive explanation of
 _Universality requires only (1) stable evolution of thought (no hallucinations), and (2) reliable access to the history of thought._
 
 This synthesis rightly seems banal, dull, too simple to be useful, too theory of computation 101 to be interesting.
-And OK, if you studied the theory of computation, yes, it is, but why did y'all forget the textbook and start imaging that threshold circuits and feedforward networks could achieve general intelligence?
+And OK, if you studied the theory of computation, yes, it is, but why did y'all forget the textbook and start imagining that threshold circuits and feedforward networks could achieve general intelligence?
 If you can remember, this perspective quickly takes us to some amazing places.
 
 The first place is an intuitive understanding of what LLMs are.
@@ -104,7 +104,8 @@ When cells need to store or recall specific bits of information, they literally 
 The canonical example is [CRISPR](https://en.wikipedia.org/wiki/CRISPR).
 At its core, CRISPR functions as a chronological log of viral fragments—each one a DNA address that will guide CRISPR effectors like [Cas9](https://en.wikipedia.org/wiki/Cas9) or [Cas12](https://en.wikipedia.org/wiki/Cas12a) to destroy an invading genome.
 These fragments represent viral infections that both the individual cell and its ancestral lineage have survived.
-The chronology is not just an artifact of the system, but is essential because by remembering which viruses are more recent, the cell can invest more energy in making guided nucleases that target them than ones which occurred long ago.
+The chronology is not just an artifact of the system but is essential.
+By remembering which viruses are more recent, the cell can invest more energy in making guided nucleases that target them than ones which occurred long ago.
 
 ![CRISPR, better known for its use as a genome editing tool, is actually a temporal memory system.](/images/crispr-memory.png)
 
@@ -119,14 +120,14 @@ Then, in late December 2024, along comes [OpenAI's o3](https://openai.com/index/
 If you let the model "think less"—what they call high-efficiency mode—it answers 400 tasks at 82.8% accuracy for around $6,600.
 But if you let it think 172 times longer, exploring many more possible solution paths in parallel, it climbs to 91.5%.
 That final push costs an estimated $1.15 million (≈ 172 × $6.6k) in total compute.
-[o3's authors describe this not primarily as an engineering hack but as an ethical one](https://openai.com/index/deliberative-alignment/), "deliberative alignment" wherein an overseer system that maintains the alignment of an kind of "forest of thought", [MCMC](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) sampled chains-of-thought which are kept in check.
+[o3's authors describe this not primarily as an engineering hack but as an ethical one](https://openai.com/index/deliberative-alignment/), "deliberative alignment" wherein an overseer system that maintains the alignment of an kind of "forest of thought", [MCMC](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo)-sampled chains-of-thought which are kept in check.
 Their published numbers suggest that they pay a monstrous cost to keep all those partial reasoning traces in memory, to preserve consistency, and let the model think longer in pursuit of another apparent scaling law.
 
 In effect, by brute-forcing memory into reliability, they show how easily you can approach universal computation if you're willing to burn a fortune on tokens.
 And this isn't like previous scaling laws that revealed new capabilities—it's paying an enormous price to achieve something that biological systems do routinely.
 To reach the kind of sustained reliable thinking needed for real breakthroughs—novel cancer treatments, scientific discoveries, fundamental insights—we'd need to maintain computational state not just for a few more steps, but across weeks or months of focused investigation.
 Not just in one mind, but across communities of thinkers building on each other's work.
-At quadratic cost, that's not just unsustainable it's impossible.
+At quadratic cost, that's not just unsustainable, it's impossible.
 
 Meanwhile, human civilization achieves this kind of extended cognition through more elegant means.
 Ideas evolve across conversations, papers, and experiments, maintaining state through distributed networks of sandwich-powered minds working in shared contexts.
